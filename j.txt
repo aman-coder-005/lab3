@@ -10,4 +10,4 @@ a=b;
 b=temp;
 printf("the swap of number is",a,b);
 }
-
+hello
